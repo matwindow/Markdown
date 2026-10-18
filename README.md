@@ -1,4 +1,6 @@
 # Table of ***CONTENTS***
-> [README.md](README.md) *(Your Here!)*
+> [README.md](README.md) *(Your Here!) (Markdown)*
 >
-> [Heading.md](Heading.md)
+> [Heading](Heading) *(Folder)*
+>>
+>> [Heading → index.md](Heading/index.md) *(Markdown)*
