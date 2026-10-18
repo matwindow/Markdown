@@ -7,6 +7,4 @@
 >
 > [Mermaid](Mermaid) *(Folder)*
 > 
->> [Mermaid → Flowchart](Mermaid/flowchart) *(Folder)*
->> 
->>> [Mermaid → Flowchart → blocktypes.md](Mermaid/flowchart/blocktypes.md) *(Markdown)*
+>> [Mermaid → blocktypes.md](Mermaid/blocktypes.md) *(Markdown)*
